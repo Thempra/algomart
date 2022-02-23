@@ -1,6 +1,6 @@
 # Version 3 had a lot of updates for use in deployed environments,
 # but it dropped stuff useful for local dev like "depends_on" conditions
-version: '2'
+version: '2.1'
 
 services:
   db:
